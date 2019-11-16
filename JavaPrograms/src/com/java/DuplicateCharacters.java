@@ -3,6 +3,7 @@ package com.java;
 public class DuplicateCharacters 
 {
 	//Write a Java Program to find the duplicate characters in a string.
+	//Test String
 	
 	public static void main(String[] args) 
 	{
