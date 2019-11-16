@@ -7,8 +7,7 @@ public class ArrayList {
 	//Write a Java Program to iterate ArrayList using for-loop, while-loop, and advance for-loop.
 
 	public static void main(String[] args) 
-	{
-		
+	{		
 		java.util.ArrayList<Integer> list = new java.util.ArrayList<>();
 		list.add(20);
 		list.add(30);
